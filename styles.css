@@ -3,6 +3,8 @@ main {
     border: solid;
     border-width: 6px;
     border-color: black;
+    color: black;
+    font-family: "Times New Roman", sans-serif;
 }
 h1 {
     text-align: center;
@@ -14,6 +16,9 @@ h1 {
     border: solid;
     border-color: currentcolor;
     border-width: 10px;
+}
+h2 {
+    font-size: 50px;
 }
 .image {
     width: 750px;
